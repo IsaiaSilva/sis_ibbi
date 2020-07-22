@@ -1,0 +1,4 @@
+*.deb
+*.json
+*.log
+db.php
